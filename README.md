@@ -1,5 +1,5 @@
 # Calculator
-An Improved Calculator That Creates ASTs That Creates ASTs
+An Improved Calculator That Creates AST
 
 ## Two Versions
 
